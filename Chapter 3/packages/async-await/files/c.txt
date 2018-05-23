@@ -1,0 +1,3 @@
+this is my C in the txt c file ...
+
+Awesome right

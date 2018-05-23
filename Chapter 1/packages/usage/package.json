@@ -1,0 +1,16 @@
+{
+  "name": "usage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "sometext": "1.0.0",
+    "uppercase": "1.0.0"  
+  },
+  "keywords": [],
+  "author": "Joris Hermans",
+  "license": "ISC"
+}

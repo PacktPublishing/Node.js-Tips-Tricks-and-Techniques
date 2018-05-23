@@ -1,0 +1,17 @@
+{
+  "name": "endtoend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "e2e": "nightwatch --config nightwatch.conf.js"
+  },
+  "keywords": [],
+  "author": "Joris Hermans",
+  "license": "ISC",
+  "devDependencies": {
+    "chromedriver": "^2.38.3",
+    "nightwatch": "^0.9.21",
+    "selenium-server": "^3.12.0"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "callback",
+  "version": "1.0.0",
+  "description": "video 3 of section 3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Joris Hermans",
+  "license": "ISC",
+  "dependencies": {
+    "okay": "^1.0.0"
+  }
+}

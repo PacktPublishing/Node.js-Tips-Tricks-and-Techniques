@@ -1,0 +1,12 @@
+{
+  "name": "time",
+  "version": "1.0.0",
+  "description": "Video 1 of section 3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Joris Hermans",
+  "license": "ISC"
+}
