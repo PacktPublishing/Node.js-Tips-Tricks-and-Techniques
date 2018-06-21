@@ -1,0 +1,6 @@
+{"extends": "strongloop",
+    "env": {
+        "es6": true,
+        "jasmine": true
+    }
+}

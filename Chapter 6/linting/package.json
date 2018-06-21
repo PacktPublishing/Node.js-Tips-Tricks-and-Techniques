@@ -1,0 +1,25 @@
+{
+  "name": "sectionSix",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "pretest": "eslint --ignore-path .gitignore .",
+    "test": "jasmine",
+    "test-coverage": "istanbul cover --include-all-sources -x 'spec/*.js' jasmine && istanbul check-coverage"
+  },
+  "keywords": [],
+  "author": "Joris Hermans",
+  "license": "ISC",
+  "dependencies": {
+    "npm": "^6.0.1"
+  },
+  "devDependencies": {
+    "eslint": "^4.19.1",
+    "eslint-config-strongloop": "^2.1.0",
+    "istanbul": "^0.4.5",
+    "jasmine": "^3.1.0",
+    "jasmine-console-reporter": "^3.0.0",
+    "jasmine-node": "^1.14.5"
+  }
+}

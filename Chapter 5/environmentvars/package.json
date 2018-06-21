@@ -1,0 +1,19 @@
+{
+  "name": "sectionFive",
+  "version": "1.0.0",
+  "description": "",
+  "main": "env-example.js",
+  "scripts": {
+    "start": "node .",
+    "start:dev": "nodenv -f ."
+  },
+  "keywords": [],
+  "author": "Joris Hermans",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^5.0.1"
+  },
+  "devDependencies": {
+    "node-env-run": "^3.0.2"
+  }
+}

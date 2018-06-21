@@ -1,0 +1,24 @@
+<html>
+  <head>
+    <title> ToDo App </title>
+    <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+    <link href="/styles.css" rel="stylesheet">
+  </head>
+<body>
+  <div class="container">
+     <h2> A Simple ToDo List App </h2>
+<form action ="/site/add" method="POST">
+       <input type="text" name="newtodo" placeholder="add new todo">        <button> Add ToDo </button>
+    <h2> Added ToDo's </h2>
+    <% for( var i = 0; i < todos.length; i++){ %>
+      <li><input type="checkbox" name="check" value="<%= todos[i] %>" /> <%= todos[i] %> </li>
+  <% } %>
+<button formaction="/remove" type="submit"> Remove </button>
+</form>
+    <h2> Completed todo </h2>
+    <% for( var i = 0; i < complete.length; i++){ %>
+      <li><%= complete[i] %> </li>
+  <% } %>
+</div>
+</body>
+</html>
