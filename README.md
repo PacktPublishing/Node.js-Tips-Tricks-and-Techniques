@@ -24,4 +24,65 @@ This course is for Node.js developers who want to learn some useful, interesting
 ### Technical Requirements
 This course has the following software requirements:<br/>
 Minimum Hardware Requirements
-For successful completi
+For successful completion of this course, students will require the computer systems with at least the following:
+
+
+OS: Any modern version of MacOS, Windows, or Linux
+
+
+
+Processor: Intel Core i3
+
+
+
+Memory: 2GB RAM
+
+
+
+Storage: Around 50MB of free space for project files.
+
+
+Recommended Hardware Requirements
+For an optimal experience with hands-on labs and other practical activities, we recommend the following configuration:
+
+
+OS: MacOS or a popular Linux distribution like Ubuntu
+
+
+
+Processor: 2.7 GHz Intel Core i5
+
+
+
+Memory: 8GB RAM
+
+
+
+Storage: Around 50MB of free space for project files.
+
+
+
+Software Requirements
+
+
+Operating system: Any modern version of MacOS, Windows, or Linux
+
+
+
+Browser: Any modern browser such as Chrome, Firefox, Safari, Opera, etc.
+
+
+
+A code editor or IDE such as Atom, Visual Studio Code or WebStorm.
+
+
+
+Node.js, version >= 6.0.0 and a package manager such as yarn
+
+## Related Products
+* [Hands-on Application Development with Node.js [Video]](https://www.packtpub.com/web-development/hands-application-development-nodejs-video?utm_source=github&utm_medium=repository&utm_campaign=9781789135244)
+
+* [Web Development with Node.js, MongoDB and Express [Video]](https://www.packtpub.com/application-development/web-development-nodejs-mongodb-and-express-video?utm_source=github&utm_medium=repository&utm_campaign=9781786463425)
+
+* [Advanced Server-Side Programming with Node.js [Video]](https://www.packtpub.com/web-development/advanced-server-side-programming-nodejs-video?utm_source=github&utm_medium=repository&utm_campaign=9781787289963)
+
